@@ -3,6 +3,7 @@ body{
     min-height: 100vh;
     display: grid;
     grid-gap: 1em;
+    grid-template-rows: auto 1fr auto auto;
 }
 
 header, main, aside, footer {
