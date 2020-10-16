@@ -23,25 +23,30 @@ footer{grid-area: footer;}
 h1{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: bold;
+    padding: 10px;
 }
 
 h2{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: bold;
+    padding: 10px;
 }
 
 h3{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: bold;
+    padding: 10px;
 }
 
 h4{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: bold;
+    padding: 10px;
 }
 
 p{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 10px;
 }
 
 @media (min-width: 40em) {
