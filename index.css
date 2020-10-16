@@ -1,4 +1,9 @@
 body{
-    background-color: beige;
+    background: coral;
     min-height: 100vh;
 }
+
+header, main, aside, footer {
+    background: #ffffff;
+}
+
