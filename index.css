@@ -1,6 +1,8 @@
 body{
     background: coral;
     min-height: 100vh;
+    display: grid;
+    grid-gap: 1em;
 }
 
 header, main, aside, footer {
