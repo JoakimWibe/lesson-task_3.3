@@ -20,3 +20,8 @@ main{grid-area: main;}
 aside{grid-area: aside;}
 footer{grid-area: footer;}
 
+@media (min-width: 40em) {
+    body {
+        grid-template-columns: 12em 1fr;
+    }
+}
